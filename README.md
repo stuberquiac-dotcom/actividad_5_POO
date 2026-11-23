@@ -20,6 +20,8 @@
 * `ejercicio_cuenta_b.py`:Solución al ejercicio propuesto 95
 *  `ejercicio_notas.py`:Solución al ejercicio propuesto 8.2
 *   `ejercicio_figuras2.py`:Solución al ejercicio propuesto 8.3
+*  `ejercicio_gestion_de_contenido.py`:Solución al ejercicio propuesto 8.4
+*   `ejercicio_cuadros_de_dialogo.py`:Solución al ejercicio propuesto 8.5
 
 
 
